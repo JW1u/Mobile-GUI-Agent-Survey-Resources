@@ -48,6 +48,9 @@ Focuses on how agents are trained, including Supervised Fine-Tuning (SFT) and Re
 - **AgentCPM-GUI** (2025): Utilizes Reinforcement Fine-Tuning (GRPO) for on-device mobile agents.
 - **UI-R1** (2025): Enhances action prediction through specialized reinforcement learning.
 - **LearnAct** (2025): A few-shot framework using unified demonstration benchmarks.
+- **MobileDreamer** (2026): An efficient sketch world model-based lookahead framework for mobile GUI agents.
+- **Mobile-Agent-RAG** (2025): A hierarchical multi-agent framework that empowers agents with contextual knowledge via RAG.
+- **MAI-UI** (2025): Alibaba's family of GUI agents designed for practical, real-world mobile capabilities.
 
 ---
 
